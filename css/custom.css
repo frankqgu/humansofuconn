@@ -1,18 +1,11 @@
 /* Your custom css code goes here */
 
-.picscale {
-    width: 100px;
-    max-width: 100px;
-    height: 100px;
-    max-height: 100px;
-    float: left;
-  }
-
-.picscal {
-    width: 100px;
-    max-width: 100px;
-    height: 100px;
-    max-height: 100px;
-    float: right;
-  }
-  
+.picdetail {
+  max-width: 75%;
+  max-height: 75%;
+  vertical-align: middle;
+  overflow-clip-margin: content-box;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: clip;
+}
