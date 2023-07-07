@@ -323,12 +323,7 @@ a:hover, a:focus {
   list-style: none;
 }
 
-.picscale {
-  width: 100px;
-  max-width: 100px;
-  height: 100px;
-  max-height: 100px;
-}
+
 .probootstrap-right-nav li a {
   padding: 0 10px;
 }
@@ -818,7 +813,7 @@ a:hover, a:focus {
 
 .img-bg .probootstrap-photo-details {
   text-align: left;
-  bottom: 20px;
+  top: 200px;
   left: 20px;
   position: absolute;
 }
