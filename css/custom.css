@@ -12,34 +12,35 @@
 
 
 blockquote {
-    font-family: Georgia, serif;
-    font-size: 18px;
-    width: 500px;
-    margin: 0.25em 0;
-    padding: 0.35em 40px;
-    line-height: 1.45;
-    position: relative;
-    color: #383838;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  width: 500px;
+  margin: 0.25em 0;
+  padding: 0.35em 40px;
+  line-height: 1.45;
+  position: relative;
+  color: #383838;
 }
-    
+  
 blockquote:before {
-    display: block;
-    padding-left: 10px;
-    content: "\201C";
-    font-size: 80px;
-    position: absolute;
-    left: -20px;
-    top: -20px;
-    color: #7a7a7a;
+  display: block;
+  padding-left: 10px;
+  content: "\201C";
+  font-size: 80px;
+  position: absolute;
+  left: -20px;
+  top: -20px;
+  color: #7a7a7a;
 }
-    
+  
 blockquote:after {
-    display: block;
-    padding-left: 10px;
-    content: "\201D";
-    font-size: 80px;
-    position: absolute;
-    left: 450px;
-    top: 655px;
-    color: #7a7a7a;
+  display: block;
+  padding-left: 10px;
+  content: "\201D";
+  font-size: 80px;
+  position: absolute;
+  left: 450px;
+  top: 655px;
+  color: #7a7a7a;
 }
+
